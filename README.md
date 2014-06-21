@@ -1,7 +1,8 @@
 ###TVToolkit
-Therapeutic Visualization Toolkit  
-- a set of therapeutic visualization tools that use responsive graphics to enhance the mind's ability to influence the body's physical responses.
+a set of therapeutic visualization tools that use responsive graphics to enhance the mind's ability to influence the body's physical responses.
+
 ________________________
+
 
 ####new home of an ancient project previously known as:
 - Recursion Projection Therapy
@@ -43,18 +44,20 @@ ________________________
         	- (Vuzix each also require USB-2 to Computer2 for Power (and Perhaps signal information as well (perhaps USB powered hub would work?))
         4. Video Projector:: rear projected at fabric above space
          	- making session viewable to public outside space while retaining coherence with healing space with curtains closed
-     - includes:
-       - **Acu_AR_PointGenerator**
-       - **Acu_AR_Point**
-       - **Acu_AR_Object**
-       - **Acu_AR_Vehicle**
-       - **Acu_AR_FlowFieldDepth**
-       - **Acu_AR_FlowFieldIllumination**
-       - **Acu_AR_FeedbackLoop**
+- Acu_AR Objects include:
+	- **Acu_AR_PointGenerator**
+    - **Acu_AR_Point**
+    - **Acu_AR_Object**
+    - **Acu_AR_Vehicle**
+    - **Acu_AR_FlowFieldDepth**
+    - **Acu_AR_FlowFieldIllumination**
+    - **Acu_AR_FeedbackLoop**
 
 - [AcuNetics] - cybernetic acupressure
 	- [AcuNetic_AR] - acupressure using autonomous objects in augmented reality (aka AcuAR)
 	- [AcuNetic_Projections] - acupressure using 2D projection mapped autonomous objects
+
+_____________________________
 
 ####Archived Documentation (outdated yet interesting):
 #####EV Therapy Thesis Project NYU 2012
