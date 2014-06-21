@@ -22,7 +22,7 @@ ________________________
     - **Acu_AR** = add underscore + suffix as necessary, such that FlowFieldFoo --> Acu_AR_FlowFieldFoo
         - // updated previous convention, which was :: 
         - base case = "EV_AR" :: drop "EV" [eg EV_AR_Foo --> AR_Foo] && Add prefixes [eg Acu(EV_AR)_Foo --> Acu(AR)_Foo (eg Acu(AR)_Point)]
-    -**IHS** = add underscore + suffix as necessary, such that Strong A.I. = IHS_Awareness ;)
+    - **IHS** = add underscore + suffix as necessary, such that Strong A.I. = IHS_Awareness ;)
 
 - EV_Projections::Computer1::Tronik::MacBookPro_Lion10.7::8gigsRam::Procesing1.5.1
     - uses the InFocus ShortThrow projector positioned over the massage table
