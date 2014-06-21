@@ -5,7 +5,7 @@ ________________________
 
 
 ####new home of an ancient project previously known as:
-- [Recursion Projection Therapy]
+- Recursion Projection Therapy
 	- [at SOEX Gallery SF](https://www.flickr.com/photos/jaycody9/sets/72157625517220234/)
 	- [at Oakland Art Space](https://www.flickr.com/photos/jaycody9/sets/72157626699434942/)
 - Intelligent Healing Spaces
