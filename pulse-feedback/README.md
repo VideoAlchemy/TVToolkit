@@ -12,7 +12,7 @@ Pulse Sensor and a micro controller team up to allow a user's heartbeat to affec
 
 
 ####Installations:
-- Eureka! The Spirituality of Science  -  2014-03 Emeryville, CA
+- [Eureka! The Spirituality of Science](https://www.flickr.com/photos/organize/?start_tab=one_set72157645325802743)  -  2014-03 Emeryville, CA
 
 
 
