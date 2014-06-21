@@ -5,10 +5,17 @@ ________________________
 
 
 ####new home of an ancient project previously known as:
-- Recursion Projection Therapy
+- [Recursion Projection Therapy]
+	- [at SOEX Gallery SF](https://www.flickr.com/photos/jaycody9/sets/72157625517220234/)
+	- [at Oakland Art Space](https://www.flickr.com/photos/jaycody9/sets/72157626699434942/)
 - Intelligent Healing Spaces
+	- [Virtual Acupressure](https://www.flickr.com/photos/jaycody9/sets/72157626696632302/)
+	- [Flow Field Massage](https://www.flickr.com/photos/jaycody9/sets/72157626696660108/)
+- [Augmented Massage Table](https://www.flickr.com/photos/jaycody9/sets/72157637802847994/)
 - Interactive Healing Spaces
+	- [photo documentation of RnD](https://www.flickr.com/photos/jaycody9/sets/72157637800982304/)
 - TherapyViz
+- [Proprioception Enhancement Tools](https://www.flickr.com/photos/jaycody9/sets/72157637799085485/)
 - Enhanced Visualization Therapy
 
 ####Archived Documentation (outdated yet interesting):

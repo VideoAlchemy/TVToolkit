@@ -3,7 +3,7 @@ A heart-rate visualizer
 ____________
 
 ####Overview:
-user's heartbeat affects graphics and lighting.  
+Pulse Sensor and a micro controller team up to allow a user's heartbeat to affect projections and lighting
 
 ####Components:
 - Arduino
