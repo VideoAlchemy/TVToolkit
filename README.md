@@ -11,6 +11,14 @@ ________________________
 - TherapyViz
 - Enhanced Visualization Therapy
 
+####Archived Documentation (outdated yet interesting):
+#####EV Therapy Thesis Project NYU 2012
+- [project blog] - EV Therapy Thesis
+- [Enhanced Visualization Therapy on Github]
+
+_____________________________
+
+
 ####Tools for the Kit (outdated yet interesting):
 - Enhanced Visualization (EV) Therapy :: Technology :: 3 Parts :: 
 	1. **EV_Projections (Enhanced Visualization Projections)** :: computer1 :: imagery projected directly onto client in physical space :: 
@@ -60,12 +68,6 @@ ________________________
 	- [AcuNetic_AR] - acupressure using autonomous objects in augmented reality (aka AcuAR)
 	- [AcuNetic_Projections] - acupressure using 2D projection mapped autonomous objects
 
-_____________________________
-
-####Archived Documentation (outdated yet interesting):
-#####EV Therapy Thesis Project NYU 2012
-- [project blog] - EV Therapy Thesis
-- [Enhanced Visualization Therapy on Github]
 
 _____________________________
 #####EV Therapy Github README (outdated yet interesting)
