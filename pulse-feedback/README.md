@@ -19,10 +19,10 @@ Pulse Sensor and a micro controller team up to allow a user's heartbeat to affec
 ____________
 ####Versions and Features
 - v.01 2014-03
+	- made slight changes to example code diverting output to simple graphic of an ellipse expanding upon sensing user's heartbeat.
 
 
-####Part of the Therapeutic Visualizations ToolKit
-- The TVToolKit
+####Part of the Therapeutic Visualizations ToolKit [TVToolKit](https://github.com/VideoAlchemy/TVToolkit)
 
 
 
