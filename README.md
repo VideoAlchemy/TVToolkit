@@ -1,5 +1,6 @@
 ###TVToolkit
-Therapeutic Visualization Projects
+Therapeutic Visualization Toolkit  
+- a set of therapeutic visualization tools that use responsive graphics to enhance the mind's ability to influence the body's physical responses.
 ________________________
 
 ####new home of an ancient project previously known as:
@@ -9,11 +10,11 @@ ________________________
 - TherapyViz
 - Enhanced Visualization Therapy
 
-####Tools for the Kit (outdated and interesting):
+####Tools for the Kit (outdated yet interesting):
 - Enhanced Visualization (EV) Therapy :: Technology :: 3 Parts :: 
-	1] EV_Projections :: Enhanced Visualization Projections :: computer1 :: imagery projected directly onto client in physical space :: 
-    2] Acu_AR :: Augmented Reality Acupressure :: computer2 :: visable as Augmented Reality in video goggles or on face-cradle display :: 
-    3] IHS :: Intelligent Healing Space  :: responsive environment with sensors, feedback mechanisms, and awareness of client and session
+	1. EV_Projections :: Enhanced Visualization Projections :: computer1 :: imagery projected directly onto client in physical space :: 
+    2. Acu_AR :: Augmented Reality Acupressure :: computer2 :: visable as Augmented Reality in video goggles or on face-cradle display :: 
+    3. IHS :: Intelligent Healing Space  :: responsive environment with sensors, feedback mechanisms, and awareness of client and session
  
 - Naming Convention::
 	-EV_Projections = drop "Projections" [eg EV_Projection_Foo --> EV_Foo] 
