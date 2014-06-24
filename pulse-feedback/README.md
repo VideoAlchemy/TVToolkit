@@ -26,7 +26,10 @@ ____________
 ####Part of the Therapeutic Visualizations project ==> 
 - [TVToolKit](https://github.com/VideoAlchemy/TVToolkit)
 	- a set of therapeutic visualization tools that use responsive graphics to enhance the mind's ability to influence the body's physical responses
-
+- Heart sensor + cybernetic acupressure (AcuNetics) [from the TVToolkit documentation:
+```
+...Or the AcuNetic object may sense a higher than normal heart rate, and in response may assemble with other AcuNetic object to form themselves into a pattern around the client’s heart that changes shape based on the heart rate. In this way, the client becomes aware of their own heart rate through a form of biofeedback. The difference between standard biofeedback and this AcuNetic feedback technique is that the therapist need not monitor the client’s heart rate, nor does the therapist need to stop the session in order to respond to a higher than average heart rate. A therapist need only invite the AcuNetic objects to the session. The objects themselves will analyse the details of the treatment (and of all previous treatments with this client) and from that information will determine their own course of action. If an AcuNetic object senses that the therapist is spending extra time with one part of the client’s body, the object may resolve to directly assist the therapist by transforming into pulsating light at that spot, or it may decide to transform into a bright pulsating line that runs along the local acupressure meridian and connects the therapist’s treatment area with the previous 5 major acupressure points along the main meridian line.
+```
 
 
 
