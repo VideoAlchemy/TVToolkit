@@ -23,7 +23,9 @@ ____________
 	- made slight changes to example code diverting output to simple graphic of an ellipse expanding upon sensing user's heartbeat.
 
 
-####Part of the Therapeutic Visualizations ToolKit [TVToolKit](https://github.com/VideoAlchemy/TVToolkit)
+####Part of the Therapeutic Visualizations project ==> 
+- [TVToolKit](https://github.com/VideoAlchemy/TVToolkit)
+	- a set of therapeutic visualization tools that use responsive graphics to enhance the mind's ability to influence the body's physical responses
 
 
 
