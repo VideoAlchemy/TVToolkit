@@ -3,8 +3,11 @@ a set of therapeutic visualization tools that use responsive graphics to enhance
 
 ________________________
 
+####[TVToolkit wiki](https://github.com/VideoAlchemy/TVToolkit/wiki)
 
-####new home of an ancient project previously known as:
+________________________
+
+####Outdated Documentation from previous versions:
 - Recursion Projection Therapy
 	- [at SOEX Gallery SF](https://www.flickr.com/photos/jaycody9/sets/72157625517220234/)
 	- [at Oakland Art Space](https://www.flickr.com/photos/jaycody9/sets/72157626699434942/)
